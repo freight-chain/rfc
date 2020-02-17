@@ -8,8 +8,7 @@ type: Network Upgrade
 category Core, Network
 created: <2020-02-15>
 ---
-<br>
-## Simple Summary<br>
+## Simple Summary <br>
 <!--"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the RFC.-->
 The Network Token supply must be realigned to properly reflect the new business model for the network as a whole. Focusing on EDI transactions aligns the token-use case and network mechanics with actual product that customers are wanting and expressing interest in.<br>
 
@@ -54,6 +53,11 @@ If $EDI is LESS than 1 $USDC/DAI, Transaction Supply remains locked.<br>
 Else $EDI not valid.<br>
 
 Supply Transaction Criteria can be adjusted by committee approval. 
+
+## Addendums
+Pending Closure of issues:
+[Token Holder Compensation](https://github.com/freight-chain/rfc/issues/2)
+[Grandfathered Accounts](https://github.com/freight-chain/rfc/issues/3)
 
 ## Rationale
 The rationale behind this is to enhance token utility: EDI transaction pricing is already done in the logistics industry on not only a per transactional level it also includes pricing based on bytes per message. 
