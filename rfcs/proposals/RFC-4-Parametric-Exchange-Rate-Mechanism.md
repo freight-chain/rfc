@@ -60,7 +60,7 @@ Pending Sandbox environment.
 Application for Coinbase Custodial Services and Market Making Firm already underway.
 
 ## Security Considerations
-Exploitation of accounts, 2FA compromises, phishing attacks, and illegitamte transactions sent in bid to artifically increase token price from compromised end user accounts. Mitigation strategies can be outlined in internal documentation.
+Exploitation of accounts, 2FA compromises, phishing attacks, and illegitamte transactions sent in bid to artificially increase token price from compromised end user accounts. Mitigation strategies can be outlined in internal documentation.
 
 ## Other Considerations
 Legal aspect of contractual rights and bailee status of transacting parties. This may affect implementation but not result.

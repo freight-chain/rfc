@@ -9,7 +9,7 @@ created: 2020-02-15
 
 ## What is an RFC?
 
-RFC stands for "Request for Comment". An RFC is a design document providing information relevent to the Freight Trust Network (here after "Network")community, or describing a new feature for Ethereum or its processes or environment. The RFC should provide a concise technical specification of the feature and a rationale for the feature.
+RFC stands for "Request for Comment". An RFC is a design document providing information relevant to the Freight Trust Network (here after "Network")community, or describing a new feature for Ethereum or its processes or environment. The RFC should provide a concise technical specification of the feature and a rationale for the feature.
 
 ## RFC Rationale
 
