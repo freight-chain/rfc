@@ -11,7 +11,7 @@ created: <2020-02-17>
 </pre>
 ---
 
->This RFC-5 *supersedes* RFC-2, RFC-3, and RFC-4. This consolidates the various proposals into one *omnibus* proposal vs. voting on 3 seperate RFC's. 
+>This RFC-5 *supersedes* RFC-2, RFC-3, and RFC-4. This consolidates the various proposals into one *omnibus* proposal vs. voting on 3 separate RFC's. 
 
 <br>
 
@@ -132,7 +132,7 @@ documentation on testing and specifications can be found:<br>
 A new contract will be published, with ABI and source code published in the [ftn token repo](https://github.com/freight-chain/network-token)
 <br>
 ## Security Considerations
-Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. Addendum for Staking is beyond scope of this RFC and is a seperate issue to be addressed. 
+Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. Addendum for Staking is beyond scope of this RFC and is a separate issue to be addressed. 
 <br>
 ## Copyright
 Copyright 2020 - FreightTrust and Clearing Corporation. All Rights Reserved. 

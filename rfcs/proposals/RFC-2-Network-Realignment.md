@@ -122,7 +122,7 @@ documentation on testing and specifications can be found:
 A new contract will be published, with ABI and source code published in the [ftn token repo](https://github.com/freight-chain/network-token)
 
 ## Security Considerations
-Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. Addendum for Staking is beyond scope of this RFC and is a seperate issue to be addressed. 
+Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. Addendum for Staking is beyond scope of this RFC and is a separate issue to be addressed. 
 
 ## Copyright
 Copyright 2020 - FreightTrust and Clearing Corporation. All Rights Reserved. 
