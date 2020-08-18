@@ -1,0 +1,18 @@
+[book]
+authors = ["SEE CONTRIBUTORS"]
+language = "en"
+multilingual = false
+src = "."
+title = "Freight Trust Network RFC's"
+
+[output.html]
+additional-css = ["assets/mermaid.css", "assets/custom.css"]
+additional-js = ["assets/mermaid.min.js", "assets/mermaid-init.js"]
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+renderer = ["html"]
