@@ -1,9 +1,9 @@
 [book]
-authors = ["SEE CONTRIBUTORS"]
+authors = ["Freight Trust and Clearing"]
 language = "en"
 multilingual = false
-src = "."
-title = "Freight Trust Network RFC's"
+src = "build"
+title = "Freight Trust Network Governance"
 
 [output.html]
 additional-css = ["assets/mermaid.css", "assets/custom.css"]
